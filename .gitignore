@@ -1,0 +1,8 @@
+# Gradle specific files
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE specific files
+.idea/
+out/
